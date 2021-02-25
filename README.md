@@ -1,7 +1,7 @@
 ### Hi there , 
  <h2 align = 'center'>I am Vatsal, a student developer. I love learning and building new things!!👋 </h2>
  <p align = 'center'>
-  <a href = 'https://www.linkedin.com/in/vatsal-sinha-85a17b136/' src = 'https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=4&page=1&position=4&related_id=145807&origin=search'></a>&nbsp;&nbsp;
+  <a href = 'https://www.linkedin.com/in/vatsal-sinha-85a17b136/' src = 'https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1614249292~hmac=ce7ec1424e632ae6f23f6c666a6389b6'></a>&nbsp;&nbsp;
  </p>
 
 <!--
