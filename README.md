@@ -1,8 +1,6 @@
 ### Hi there , 
  <h2 align = 'center'>I am Vatsal, a student developer. I love learning and building new things!!👋 </h2>
-<p align="center">
-<a href="https://instagram.com/iamvatsals"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-</p>
+
 <!--
 **vatsalsinha/vatsalsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
